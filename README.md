@@ -13,7 +13,7 @@
 * You must manage the precision
 * You must manage the flags hh, h, l, ll, j, et z.
 
-You are allowed to use the following functions:
+##### You are allowed to use the following functions:
 * write
 * setlocale
 * malloc
