@@ -17,5 +17,6 @@
 ```
 git clone https://github.com/vlkorniienko/ft_printf
 cd ft_printf
-make
+make test
+./ft_printf.out
 ```
