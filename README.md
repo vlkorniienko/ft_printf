@@ -14,12 +14,12 @@
 * You must manage the flags hh, h, l, ll, j, et z.
 
 You are allowed to use the following functions:
-◦ write
-◦ setlocale
-◦ malloc
-◦ free
-◦ exit
-◦ The functions of man 3 stdarg
+* write
+* setlocale
+* malloc
+* free
+* exit
+* The functions of man 3 stdarg
 
 #### Usage:
 ```
