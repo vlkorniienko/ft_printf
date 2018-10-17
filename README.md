@@ -14,8 +14,8 @@
 * You must manage the flags hh, h, l, ll, j, et z.
 
 #### Usage:
-'''
+```
 git clone https://github.com/vlkorniienko/ft_printf
 cd ft_printf
 make
-'''
+```
